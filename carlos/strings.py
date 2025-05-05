@@ -37,3 +37,34 @@ print(message)
 '''
 
 
+
+'''
+universe_age = 14_000_000_000
+print(universe_age)
+1_000 10_00 100_0
+'''
+
+'''
+x, y, z = 0,0,0
+x = y = z = 0
+
+q = 1
+f = 2
+temp = q
+q = f
+f = temp
+
+q,f = f,q
+print(q)
+print(f)
+
+values = [4, 5, 6]
+a,b,c = values
+print(a,b,c)
+'''
+
+'''
+2-10. Favorite Number: Use a variable to represent your favorite number. Then, 
+using that variable, create a message that reveals your favorite number. Print 
+that message.
+'''
